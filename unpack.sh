@@ -89,4 +89,4 @@ function __decompressor(){
     
     return $successDecompress
 }
-# run example source ./unpack.sh && unpack2 -v *
+# run example source ./unpack.sh && unpack -v *
